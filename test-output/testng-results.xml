@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[The URL for home page is https://enroll.achievementcharter.com/welcome/bzwo]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[There is no data of any existing user]]>
+    </line>
+    <line>
+      <![CDATA[Click On Start Enrollment Button]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Student Preffered Name is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Last Name is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Middle Initial Name is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Date of year is selected]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Date of month is selected]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Date is selected]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The gender is selected]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Student Name is entered Oliver]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[max limit is set to 50 for Name]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[max limit is set to 15 for Case_Number]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ Click on Next Button ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Entered student language]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Click On Next Button]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[max limit is set to 90 for Internet_Speed]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The reason is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Adults Name is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Adults Name is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Changes are entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Preffered Name is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Pronunciation is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The Pronouns is entered]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Signature is drawn successfully ]]>
+    </line>
+    <line>
+      <![CDATA[                                                                                 ]]>
+    </line>
+    <line>
+      <![CDATA[The Student Added successfully ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[The user is not logout successfully]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-10T12:40:15 IST" name="Default suite" finished-at="2022-10-10T12:42:09 IST" duration-ms="113492">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T12:40:15 IST" name="Default test" finished-at="2022-10-10T12:42:09 IST" duration-ms="113492">
+      <class name="Add_Student_Test.Add_Student_Test">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:Add_Student_Test.Add_Student_Test@428640fa]" started-at="2022-10-10T12:40:15 IST" name="OpenBrowser" finished-at="2022-10-10T12:40:21 IST" duration-ms="5868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="Add_Student_Home_Page()[pri:0, instance:Add_Student_Test.Add_Student_Test@428640fa]" started-at="2022-10-10T12:40:21 IST" name="Add_Student_Home_Page" finished-at="2022-10-10T12:42:07 IST" duration-ms="105308" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The URL for home page is https://enroll.achievementcharter.com/welcome/bzwo]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[There is no data of any existing user]]>
+            </line>
+            <line>
+              <![CDATA[Click On Start Enrollment Button]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Student Preffered Name is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Last Name is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Middle Initial Name is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Date of year is selected]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Date of month is selected]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Date is selected]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The gender is selected]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[Student Name is entered Oliver]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[max limit is set to 50 for Name]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[max limit is set to 15 for Case_Number]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ Click on Next Button ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[Entered student language]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[Click On Next Button]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[max limit is set to 90 for Internet_Speed]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The reason is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Adults Name is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Adults Name is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Changes are entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Preffered Name is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Pronunciation is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The Pronouns is entered]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[Signature is drawn successfully ]]>
+            </line>
+            <line>
+              <![CDATA[                                                                                 ]]>
+            </line>
+            <line>
+              <![CDATA[The Student Added successfully ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[The user is not logout successfully]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Add_Student_Home_Page -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Add_Student_Test.Add_Student_Test@428640fa]" started-at="2022-10-10T12:42:07 IST" name="closeBrowser" finished-at="2022-10-10T12:42:09 IST" duration-ms="2285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Add_Student_Test.Add_Student_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
